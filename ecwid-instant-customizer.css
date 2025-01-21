@@ -464,6 +464,46 @@ margin-top: 50px !important;
       text-shadow: 0.5px 0.5px 2px rgba(0, 0, 0, 0.3) !important;
   }
 
+/*----------*/
+
+/*Uitgelichte inhoud met JS*/
+#tile-customer-review-F6eR2S .ins-tile__wrap {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__item {
+    align-items: center;
+    background-color: #0A5EB0;
+    border: none;
+}
+
+.ins-tile--customer-review.ins-tile--social-feed .ins-tile__column {
+    flex: unset;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text p:not(:has(a)) {
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: default;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text p {
+    color: white;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text a {
+    color: white;
+    border: none;
+    opacity: 1;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text a:hover {
+    color: #0A97B0;
+}
+
+/*----------*/
+
 /*FOOTER*/
 /* Verberg 'gemaakt met...' in footer*/
 footer .ins-tile__made-with {
