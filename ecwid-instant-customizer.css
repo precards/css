@@ -484,6 +484,7 @@ margin-top: 50px !important;
 
 .ins-tile--customer-review.ins-tile--social-feed .ins-tile__column {
     flex: unset !important;
+    width: 150px;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text p:not(:has(a)) {
