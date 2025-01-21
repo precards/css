@@ -111,11 +111,11 @@ transform: none !important;
 }
 /*button hover*/
 .product-details__navigation a:hover {
- border:2px solid #ff6600;
+ border:2px solid #0A97B0;
 }
 /*pijltjes hover*/
 .product-details__navigation a:hover svg {
-  fill: #ff6600;
+  fill: #0A97B0;
 }
 
 .product-details__navigation a svg {
@@ -430,7 +430,7 @@ color: white !important; /* Tekstkleur */
 
 /* Alle grote buttons stijl muisaanwijzing */
 .ec-size .ec-store .form-control--primary .form-control__button:hover {
-background-color: #ff6600 !important;
+background-color: #0A97B0 !important;
 color: white !important;
 }
 
