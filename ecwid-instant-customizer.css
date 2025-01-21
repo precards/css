@@ -105,7 +105,7 @@ transform: none !important;
   align-items: center;
   width: 30px;
   height: 30px;
-  border:2px solid #0A5EB0;
+  border:2px solid #0A5EB0 !important;
   border-radius: 50%;
   cursor: pointer;
 }
