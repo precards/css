@@ -477,11 +477,13 @@ margin-top: 50px !important;
     background-color: #0A5EB0;
     border: none;
 }
+.ins-tile--customer-review.ins-tile--social-feed .ins-tile__body {
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
 
 .ins-tile--customer-review.ins-tile--social-feed .ins-tile__column {
-    flex: unset;
-    display: block;
-    width: 150px;
+    flex: unset !important;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text p:not(:has(a)) {
