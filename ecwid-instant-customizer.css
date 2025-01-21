@@ -476,6 +476,7 @@ margin-top: 50px !important;
     align-items: center;
     background-color: #0A5EB0;
     border: none;
+    margin-bottom: 0;
 }
 .ins-tile--customer-review.ins-tile--social-feed .ins-tile__body {
     justify-content: space-evenly !important;
@@ -495,6 +496,10 @@ margin-top: 50px !important;
 
 #tile-customer-review-F6eR2S .ins-tile__text p {
     color: white;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text {
+    margin-bottom: 0;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text a {
