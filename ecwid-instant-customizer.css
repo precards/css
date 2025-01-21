@@ -477,6 +477,8 @@ margin-top: 50px !important;
     background-color: #0A5EB0;
     border: none;
     margin-bottom: 0;
+    padding: 10px;
+    width: 150px;
 }
 .ins-tile--customer-review.ins-tile--social-feed .ins-tile__body {
     justify-content: space-evenly !important;
@@ -485,7 +487,6 @@ margin-top: 50px !important;
 
 .ins-tile--customer-review.ins-tile--social-feed .ins-tile__column {
     flex: unset !important;
-    width: 150px;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text p:not(:has(a)) {
@@ -495,17 +496,18 @@ margin-top: 50px !important;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text p {
+    margin: 0.6em 0 0 0;
     color: white;
-}
-
-#tile-customer-review-F6eR2S .ins-tile__text {
-    margin-bottom: 0;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text a {
     color: white;
     border: none;
     opacity: 1;
+}
+
+#tile-customer-review-F6eR2S .ins-tile__text {
+    margin-bottom: 0;
 }
 
 #tile-customer-review-F6eR2S .ins-tile__text a:hover {
