@@ -515,6 +515,23 @@ margin-top: 50px !important;
 }
 
 /*----------*/
+ /*retourbeleid pagina*/
+  #tile-text-fGqsJK p a {
+    text-decoration: none !important;
+    color: #0A5EB0 !important;
+    opacity: 1 !important;
+}
+  
+  /*klantenservice pagina*/
+  #customer-review-Jj34sr-4GiAd p a,
+  #customer-review-Jj34sr-ZZZ41 p a,
+  #customer-review-Jj34sr-ZZZ42 p a,
+  #customer-review-Jj34sr-Oxs9H p a {
+    text-decoration: none !important;
+    color: #0A5EB0 !important;
+    opacity: 1 !important;
+}  
+/*----------*/
 
 /*FOOTER*/
 /* Verberg 'gemaakt met...' in footer*/
